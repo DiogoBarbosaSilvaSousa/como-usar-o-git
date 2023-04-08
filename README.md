@@ -1,2 +1,2 @@
-# como-usar-o-git
-Como usar o Git e o GitHub 
+# Como usar o Git e o GitHub
+Repositório para aprender a usar o git corretamente.
